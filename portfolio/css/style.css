@@ -602,6 +602,9 @@ form textarea{
     padding: 0%;
     left: 0%;
   }
+  .about{
+    height: 100vh;
+  }
   .about-container{
     grid-template-columns: 1fr;
   }
